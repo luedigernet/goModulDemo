@@ -1,4 +1,4 @@
-package go_module_a
+package goModulDemo
 
 import "fmt"
 
