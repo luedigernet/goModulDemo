@@ -1,3 +1,3 @@
-module github.com/luedigernet/go-module-a
+module github.com/luedigernet/goModulDemo
 
 go 1.13
